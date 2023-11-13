@@ -1,5 +1,1 @@
-var _test_ = () => {
-
-    console.log('it worked!');
-    
-}
+console.log('imported :S');
